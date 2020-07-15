@@ -15,6 +15,6 @@ Hugs from Brazil!
 
 
 
-> <b id="f1">1</b> If you are reading this: I am a International Relations researcher trying to learn data science! [↩](#a1)
+<b id="f1">1</b> If you are reading this: I am a International Relations researcher trying to learn data science! [↩](#a1)
 
 
